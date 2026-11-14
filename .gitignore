@@ -147,3 +147,11 @@ vite.config.ts.timestamp-*
 
 # Turbo Repo
 .turbo
+
+# Python
+__pycache__/
+*.pyc
+
+# Session-generated recipe & illustration artifacts
+recipe-post/
+illustrations/

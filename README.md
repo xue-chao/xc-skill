@@ -7,6 +7,7 @@
 | Skill | 说明 | 来源 |
 |-------|------|------|
 | [xc-article-illustrator](skills/xc-article-illustrator/SKILL.md) | 文章插图：分析文章结构，按 Type × Style × Palette 三维系统定位并生成插图（23 种风格、4 种色板、29 种预设，默认水彩小清新） | 移植自 baoyu-article-illustrator（MIT） |
+| [xc-video-recipe-post](skills/xc-video-recipe-post/SKILL.md) | 做菜视频一站式发小红书：转写+字幕双重核对提取菜谱，统一风格整套配图（封面/食材/步骤，注意点并入步骤），小红书标题/正文/标签 | 原创 |
 
 > **只装你需要的 skill。** 每个已安装 skill 的 description 都会常驻 agent 上下文，全量安装会带来不必要的开销。
 
